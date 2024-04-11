@@ -1,0 +1,17 @@
+*{
+    overflow: hidden;
+}
+.text{
+    position: relative;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    color: rgb(217, 217, 219);
+    width: 17vh;
+    left: 50%;
+    transform: translate(-50%);
+    font-size: 1.5vh;
+}
+.time{
+    color: red;
+    text-shadow: 0vw 0vw 0.3vw rgba(171, 3, 3, 0.973);
+}

@@ -1,0 +1,2 @@
+ALTER TABLE users
+ADD is_timeout VARCHAR(5) NOT NULL DEFAULT '0' AFTER pincode;
