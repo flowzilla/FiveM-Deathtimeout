@@ -3,7 +3,7 @@
 A FiveM script that prevents players from using weapons after they are dead
 
 ## AD
-If you want to start your own FiveM Anticheat project, check out our [Shop](https://soundflow.tebex.io/category/fivem). There you will also find my contact information for questions
+If you want to start your own FiveM Anticheat project, check out our [Shop](https://discord.gg/authify). There you will also find my contact information for questions
 
 ## Features
 
